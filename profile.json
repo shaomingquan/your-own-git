@@ -1,5 +1,5 @@
 {
     "which_program": "/usr/bin/git",
-    "git_projects_to_check": ["https://code.taou.com/git/platform_fe/maimai_crm.git"],
+    "git_projects_to_check": ["git@github.com:shaomingquan/your-own-git.git"],
     "git_commands_to_check": ["merge", "checkout"]
 }
